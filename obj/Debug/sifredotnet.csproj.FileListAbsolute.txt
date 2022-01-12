@@ -1,0 +1,8 @@
+C:\Users\muham\source\repos\sifredotnet\bin\Debug\sifredotnet.exe.config
+C:\Users\muham\source\repos\sifredotnet\bin\Debug\sifredotnet.exe
+C:\Users\muham\source\repos\sifredotnet\bin\Debug\sifredotnet.pdb
+C:\Users\muham\source\repos\sifredotnet\obj\Debug\sifredotnet.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\sifredotnet\obj\Debug\sifredotnet.csproj.SuggestedBindingRedirects.cache
+C:\Users\muham\source\repos\sifredotnet\obj\Debug\sifredotnet.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\sifredotnet\obj\Debug\sifredotnet.exe
+C:\Users\muham\source\repos\sifredotnet\obj\Debug\sifredotnet.pdb
